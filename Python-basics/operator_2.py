@@ -16,3 +16,6 @@ z=30
 w=3
 print(z**w) # Exponentiation
 
+
+#Assignment Operators are used to assign values to variables. The basic assignment operator is the equal sign (=), but there are also compound assignment operators that combine an arithmetic operation with assignment, such as +=, -=, *=, /=, %=, //=, and **=.
+
