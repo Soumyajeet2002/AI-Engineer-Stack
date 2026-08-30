@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff03fefd59cabf75",
+        "id": "a9fe1b937b480e3c",
         "type": "tabs",
         "children": [
           {
-            "id": "826e6f3d16c5acdb",
+            "id": "28087710de26e6a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -215,11 +215,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "826e6f3d16c5acdb",
+  "active": "28087710de26e6a8",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2026-08-30 23.29.57.excalidraw.md",
+    "Excalidraw",
     "Introduction/PYTHON.md",
     "Welcome.md",
     "Introduction/Python.md",
